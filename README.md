@@ -6,12 +6,12 @@ On Windows:
 
 ```sh
 test <problem>
-test acido
+test elevador
 ```
 
 On Linux:
 
 ```sh
 sh test.sh <problem>
-sh test.sh acido
+sh test.sh elevador
 ```
